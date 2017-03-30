@@ -1,6 +1,6 @@
 {
     "template": {
-        "name": "freebsd-12-zfs", 
+        "name": "freebsd-12-zfs-joe", 
         "author": "Jordan Hubbard <jkh@ixsystems.com>", 
         "description": "FreeBSD 12.0-20160809-r303880 image with root on ZFS", 
         "created_at": {
@@ -30,7 +30,7 @@
             "type": "DISK", 
             "name": "os", 
             "properties": {
-                "size": 10737418240,
+                "size": 32212254720,
                 "mode": "VIRTIO", 
                 "source": "os"
             }
